@@ -123,6 +123,11 @@
   p.tech-description{
     margin: 1em 0em 1em;
   }
+
+  p.enlarge{
+    font-size: 1.1em;
+  }
+
   .inner
   {
       margin:0 auto;
